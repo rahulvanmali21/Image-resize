@@ -1,7 +1,7 @@
 # Image-resize
 **Setup**
 1. create an virtual environment(optional)
-2. `git clone` respo and install dependency
+2. `git clone` repo and install dependency
 3. `pip install -r requirements`
 
 **Usage**
